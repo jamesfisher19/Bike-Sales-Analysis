@@ -1,0 +1,46 @@
+ ,,,
+,,,
+Average of Income,Column Labels,,
+Row Labels,No,Yes,Grand Total
+Female,"$53,440.00","$55,774.06","$54,580.78"
+Male,"$56,208.18","$60,123.97","$58,062.62"
+Grand Total,"$54,874.76","$57,962.58","$56,360.00"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+Count of Purchased Bike,Column Labels,,
+Row Labels,No,Yes,Grand Total
+0-1 Miles,166,200,366
+1-2 Miles,92,77,169
+2-5 Miles,67,95,162
+5-10 Miles,116,76,192
+More than 10 Miles,78,33,111
+Grand Total,519,481,1000
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+Count of Purchased Bike,Column Labels,,
+Row Labels,No,Yes,Grand Total
+Adolescent,71,39,110
+Middle Age,318,383,701
+Old,130,59,189
+Grand Total,519,481,1000
